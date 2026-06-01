@@ -1,0 +1,11 @@
+John Smith
+
+Senior Software Engineer
+
+Skills:
+Python
+Django
+AWS
+
+Experience:
+7 years

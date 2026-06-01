@@ -1,0 +1,11 @@
+Sara Mia
+
+Junior Software Engineer
+
+Skills:
+Python
+Django
+AWS
+
+Experience:
+1 years

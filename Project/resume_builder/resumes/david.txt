@@ -1,0 +1,11 @@
+David Smith
+
+Software Engineer
+
+Skills:
+Python
+Django
+GCP
+
+Experience:
+3 years
